@@ -1,0 +1,10 @@
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.csprojAssemblyReference.cache
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.Form1.resources
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.Properties.Resources.resources
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.csproj.GenerateResource.cache
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.csproj.CoreCompileInputs.cache
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\bin\Debug\SO.Console.Apps.Runner.exe.config
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\bin\Debug\SO.Console.Apps.Runner.exe
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\bin\Debug\SO.Console.Apps.Runner.pdb
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.exe
+C:\repos\SO.Console.Apps.Runner\SO.Console.Apps.Runner\obj\Debug\SO.Console.Apps.Runner.pdb

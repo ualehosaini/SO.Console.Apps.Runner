@@ -1,0 +1,7 @@
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\bin\Debug\SOC.ConsoleApp01.exe.config
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\bin\Debug\SOC.ConsoleApp01.exe
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\bin\Debug\SOC.ConsoleApp01.pdb
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\obj\Debug\SOC.ConsoleApp01.csprojAssemblyReference.cache
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\obj\Debug\SOC.ConsoleApp01.csproj.CoreCompileInputs.cache
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\obj\Debug\SOC.ConsoleApp01.exe
+C:\repos\SO.Console.Apps.Runner\SOC.ConsoleApp01\obj\Debug\SOC.ConsoleApp01.pdb
